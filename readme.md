@@ -13,7 +13,7 @@ Better MC 4 (BMC4)
 ![](.images/WireGuard_install_03.png)
 
 4.
->[!Warning]
+>[!WARNING]
 >Bitte wieder ausschalten nachdem Spielen auf dem Server!
 
 
@@ -37,11 +37,13 @@ Logge Dich in den Normalen Minecraft Launcher ein, falls due nicht schon bist.
 ![](.images/MC_Launcher_setup_01.png)
 
 >[!TIP]Stelle sicher, dass das Mod-Profil ausgewählt ist.
+
 ![](.images/MC_Launcher_setup_02.png)
 
 Klicke auf Play :)
 
 nach dem ersten start kann es sein dass dich das spiel aufforderd die menge des zugewiesenen arbeitsschpeichers zu ändern
->[!IMPORTANT]- Examples
+>[!IMPORTANT] Examples
+
 >![](.images/MC_setup_01.png)
 >![](.images/MC_setup_02.png)
