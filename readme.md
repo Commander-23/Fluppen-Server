@@ -42,4 +42,6 @@ Logge Dich in den Normalen Minecraft Launcher ein, falls due nicht schon bist.
 Klicke auf Play :)
 
 nach dem ersten start kann es sein dass dich das spiel aufforderd die menge des zugewiesenen arbeitsschpeichers zu ändern
-![](.images/MC_setup_01.png|640x480) ![](.images/MC_setup_02.png|640x480)
+>[!tldr] Examples
+![](.images/MC_setup_01.png)
+![](.images/MC_setup_02.png)
