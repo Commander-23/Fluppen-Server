@@ -15,6 +15,7 @@ lade dir den installer von curseforge herunter und installiere das Programm
 Nachdem Die Installation Von CurseForge Abgeschlossen ist wähle "*Continue as Guest*" bzw. "*weiter als Gast*" aus.
 ![](.images/CurseForge_install_01.png)
 ![](.images/CurseForge_install_02.png)
+Wähle als Modding Ordner einfach Die standart konfiguration aus
 Suche bei Den Modpacks nach "BMC4" und installiere das Mod-Pack.
 >[!warning] Achte Darauf, dass du das mit [Forge] markierte pack installierst!
 
