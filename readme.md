@@ -21,4 +21,9 @@ Better MC 4 (BMC4)
 ### Downloadlinks
 [Windows](https://download.overwolf.com/install/Download?PartnerId=4047&utm_term=eyJkb21haW4iOiJjZi13ZWIifQ%3D%3D)
 [Mac](https://curseforge.overwolf.com/downloads/curseforge-latest.dmg)
-
+### Installation
+![](.images/CurseForge_install_01.png)
+![](.images/CurseForge_install_02.png)
+![](.images/CurseForge_install_03.png)
+![](.images/CurseForge_install_04.png)
+![](.images/CurseForge_install_05.png)
