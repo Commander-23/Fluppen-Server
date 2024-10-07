@@ -3,18 +3,7 @@
 Modpack:
 Better MC 4 (BMC4)
 
-## Step 1 - Installation und Setup von WireGuard
-1. Lade dir den passenden installer für dein Betriebssystem herunter: [WireGuard download](https://www.wireguard.com/install/)
-2. Nach der installation, muss die VPN verbindung konfiguriet werden. Jeder wird seine eigene VPN datei von mir zugeschickt bekommen. Diese datei wird wie folgt impotiert:
-![](.images/WireGuard_install_01.png)
-![](.images/WireGuard_install_02.png)
 
-3. Jetzt ist der VPN-Tunnel zum Mäuse Fluppen Server importiert und bereit zur nutzung. Das Wireguard fenster sollte jetzt ca wie folgt aussehen.
-![](.images/WireGuard_install_03.png)
-
-4.
->[!WARNING]
->Bitte wieder ausschalten nachdem Spielen auf dem Server!
 
 
 ## Step 2 - Installation und Setup von CurseForge
@@ -36,7 +25,7 @@ Nach der installation musst du einfgach nur auf "*Play*" klicken. dann startet s
 Logge Dich in den Normalen Minecraft Launcher ein, falls due nicht schon bist.
 ![](.images/MC_Launcher_setup_01.png)
 
->[!TIP]Stelle sicher, dass das Mod-Profil ausgewählt ist.
+>[!TIP] Stelle sicher, dass das Mod-Profil ausgewählt ist.
 
 ![](.images/MC_Launcher_setup_02.png)
 
@@ -47,3 +36,5 @@ nach dem ersten start kann es sein dass dich das spiel aufforderd die menge des 
 
 >![](.images/MC_setup_01.png)
 >![](.images/MC_setup_02.png)
+
+Server IP: commander23.sytes.net:25565
