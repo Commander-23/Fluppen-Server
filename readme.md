@@ -10,6 +10,7 @@ Better MC 4 (BMC4)
 ### Downloadlinks
 >[Windows](https://download.overwolf.com/install/Download?PartnerId=4047&utm_term=eyJkb21haW4iOiJjZi13ZWIifQ%3D%3D) | 
 [Mac](https://curseforge.overwolf.com/downloads/curseforge-latest.dmg)
+lade dir den installer von curseforge herunter und installiere das Programm
 ### Modpack Mit CurseForge Installieren
 Nachdem Die Installation Von CurseForge Abgeschlossen ist wähle "*Continue as Guest*" bzw. "*weiter als Gast*" aus.
 ![](.images/CurseForge_install_01.png)
