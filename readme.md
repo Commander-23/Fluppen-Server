@@ -16,7 +16,7 @@ Nachdem Die Installation Von CurseForge Abgeschlossen ist wähle "*Continue as G
 ![](.images/CurseForge_install_01.png)
 ![](.images/CurseForge_install_02.png)
 Wähle als Modding Ordner einfach Die standart konfiguration aus
-Suche bei Den Modpacks nach "BMC4" und installiere das Mod-Pack.
+Suche bei Den Modpacks nach "E2" und installiere das Mod-Pack.
 >[!warning] Achte Darauf, dass du das mit [Forge] markierte pack installierst!
 
 ![](.images/CurseForge_install_03.png)
