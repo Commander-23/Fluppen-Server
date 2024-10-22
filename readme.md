@@ -18,9 +18,9 @@ Nachdem Die Installation Von CurseForge Abgeschlossen ist wähle "*Continue as G
 Wähle als Modding Ordner einfach Die standart konfiguration aus
 Suche bei Den Modpacks nach "E2L" und installiere das Mod-Pack.
 
->[!warning] Achte Darauf, dass du das mit [Forge] markierte pack installierst!
+> [!warning] Achte Darauf, dass du das mit [Forge] markierte pack installierst!
 
->[!warning] Stelle Sicher, dass du Java installiert hast. hier der entsprechende download link [Java-download](https://www.java.com/de/download/manual.jsp)
+> [!warning] Stelle Sicher, dass du Java installiert hast. hier der entsprechende download link [Java-download](https://www.java.com/de/download/manual.jsp)
 
 ![](.images/CurseForge_install_03.png)
 
