@@ -46,7 +46,7 @@ Server IP: commander23.sytes.net:25565
 
 
 
-> [!NOTE] Downloadlinks
+> [!NOTE]
 > [Windows](https://download.overwolf.com/install/Download?PartnerId=4047&utm_term=eyJkb21haW4iOiJjZi13ZWIifQ%3D%3D) | 
 > [Mac](https://curseforge.overwolf.com/downloads/curseforge-latest.dmg)
 
