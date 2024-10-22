@@ -6,7 +6,7 @@ Enigmatica 2 Light (E2L)
 
 
 
-## Step 2 - Installation und Setup von CurseForge
+## Installation und Setup von CurseForge
 ### Downloadlinks
 >[Windows](https://download.overwolf.com/install/Download?PartnerId=4047&utm_term=eyJkb21haW4iOiJjZi13ZWIifQ%3D%3D) | 
 [Mac](https://curseforge.overwolf.com/downloads/curseforge-latest.dmg)
@@ -25,7 +25,7 @@ Suche bei Den Modpacks nach "E2L" und installiere das Mod-Pack.
 
 Nach der installation musst du einfgach nur auf "*Play*" klicken. dann startet sich der normale Minecraft Launcher mit dem gemoddeten Profil schon geladen.  
 
-## Step 3 - Let's Play
+## Let's Go
 Logge Dich in den Normalen Minecraft Launcher ein, falls due nicht schon bist.
 ![](.images/MC_Launcher_setup_01.png)
 
