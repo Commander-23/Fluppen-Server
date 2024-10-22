@@ -1,7 +1,7 @@
 # Mäuse Fluppen Server 2024
 
 Modpack:
-Better MC 4 (BMC4)
+Enigmatica 2 Light (E2L)
 
 
 
@@ -16,8 +16,11 @@ Nachdem Die Installation Von CurseForge Abgeschlossen ist wähle "*Continue as G
 ![](.images/CurseForge_install_01.png)
 ![](.images/CurseForge_install_02.png)
 Wähle als Modding Ordner einfach Die standart konfiguration aus
-Suche bei Den Modpacks nach "E2" und installiere das Mod-Pack.
+Suche bei Den Modpacks nach "E2L" und installiere das Mod-Pack.
+
 >[!warning] Achte Darauf, dass du das mit [Forge] markierte pack installierst!
+
+>[!warning] Stelle Sicher, dass du Java installiert hast. hier der entsprechende download link [Java-download](https://www.java.com/de/download/manual.jsp)
 
 ![](.images/CurseForge_install_03.png)
 
