@@ -46,8 +46,9 @@ Server IP: commander23.sytes.net:25565
 
 
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> [!NOTE] Downloadlinks
+> [Windows](https://download.overwolf.com/install/Download?PartnerId=4047&utm_term=eyJkb21haW4iOiJjZi13ZWIifQ%3D%3D) | 
+> [Mac](https://curseforge.overwolf.com/downloads/curseforge-latest.dmg)
 
 > [!TIP]
 > Optional information to help a user be more successful.
