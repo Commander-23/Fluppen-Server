@@ -36,7 +36,7 @@ Logge Dich in den Normalen Minecraft Launcher ein, falls due nicht schon bist.
 
 Klicke auf Play :)
 
-Server IP: commander23.sytes.net:25565
+Server IP: 
 
 > [!NOTE]  
 > Da Ich nicht von jedem den usernamen habe ist es am einfachsten wenn ihr euch einmal versucht zu verbinen, da kann ich den namen dann sehr easy zur whitelist hinzufügen ;)
